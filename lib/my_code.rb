@@ -9,6 +9,8 @@ def map(s)
   new
 end
 
+
+
 def reduce(s, sp=nil)
   if sp
     accum = sp
